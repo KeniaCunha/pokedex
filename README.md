@@ -1,7 +1,7 @@
-<h1 align='center' font-weight="800">Pokédex 🌟</h1>
+<h1 align='center'>Pokédex 🌟</h1>
 
 
-<h1 align='center'> Projeto desenvolvido durante a Trilha Javascript do bootcamp Orange tech +, uma parceria do Inter e DIO.</h1>
+<h2 align='center'> Projeto desenvolvido durante a Trilha Javascript do bootcamp Orange tech +, uma parceria do Inter e DIO.</h2>
 
 <p align='center'>
   <img alt='Pokédex' src='.github/pokedex-preview.JPG' width='100%'></p>
